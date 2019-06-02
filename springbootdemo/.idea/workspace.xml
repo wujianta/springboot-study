@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17df9ab7-4482-48a3-baac-df2a773d7d9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/newinit/microservice/StartTestController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -269,7 +267,7 @@
       <workItem from="1559132835193" duration="399000" />
       <workItem from="1559210558890" duration="7637000" />
       <workItem from="1559436030598" duration="524000" />
-      <workItem from="1559439421268" duration="9506000" />
+      <workItem from="1559439421268" duration="9785000" />
     </task>
     <task id="LOCAL-00001" summary="201906021030">
       <created>1559442650333</created>
@@ -278,16 +276,24 @@
       <option name="project" value="LOCAL" />
       <updated>1559442650333</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="引入sayhello">
+      <created>1559453418739</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559453418739</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18066000" />
+    <option name="totallyTimeSpent" value="18345000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27056554" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27056554" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -297,7 +303,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4024226" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4024226" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39919356" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -362,7 +368,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="201906021030" />
-    <option name="LAST_COMMIT_MESSAGE" value="201906021030" />
+    <MESSAGE value="引入sayhello" />
+    <option name="LAST_COMMIT_MESSAGE" value="引入sayhello" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/org/newit/microservice/springmvcdemo/HelloController.java" />

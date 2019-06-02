@@ -1,0 +1,5 @@
+org\newinit\microservice\Profiles.class
+org\newinit\microservice\Book.class
+org\newinit\microservice\Application.class
+META-INF\spring-configuration-metadata.json
+org\newinit\microservice\Mytime.class
