@@ -1,0 +1,28 @@
+{
+  "groups": [
+    {
+      "name": "newinit.book",
+      "type": "org.newinit.microservice.Book",
+      "sourceType": "org.newinit.microservice.Book"
+    }
+  ],
+  "properties": [
+    {
+      "name": "newinit.book.description",
+      "type": "java.lang.String",
+      "sourceType": "org.newinit.microservice.Book"
+    },
+    {
+      "name": "newinit.book.name",
+      "type": "java.lang.String",
+      "sourceType": "org.newinit.microservice.Book"
+    },
+    {
+      "name": "newinit.book.price",
+      "type": "java.lang.Integer",
+      "sourceType": "org.newinit.microservice.Book",
+      "defaultValue": 0
+    }
+  ],
+  "hints": []
+}
